@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SAI_1_Console_1_ver2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
